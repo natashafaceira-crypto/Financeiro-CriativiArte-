@@ -1,0 +1,17 @@
+{
+  "name": "CriativiArte Financeiro",
+  "short_name": "CriativiArte",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#a200e9",
+  "icons": [
+    {
+      "src": "./criativiarte-icon.svg?v=2",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
